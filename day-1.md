@@ -1,3 +1,5 @@
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="75" align="right">
+
 # Daily Learning
 
 ## Morning Planning
